@@ -4,14 +4,14 @@ A fun weekend project built with React + Express to chat with multiple LLMs (Cha
 
 Run Locally
 # backend
-cd backend
-npm install
-npm run dev
+cd backend ->
+npm install->
+npm run dev->
 
 # frontend
-cd frontend
-npm install
-npm run dev
+cd frontend->
+npm install->
+npm run dev->
 
 Notes
 Add your API keys in .env
